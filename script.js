@@ -1,0 +1,2 @@
+var = gettingGitSimpleView
+ alert(var)
